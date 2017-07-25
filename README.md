@@ -1,1 +1,2 @@
 # flow_graph
+Positive numbers are the source of flow, and negative numbers as sinks. Each source should map to the nearest sink. So in the output you should fill the matched sink for each source, as a relative position. (3,-1) is the relative position of the sink corresponding to each source point.
